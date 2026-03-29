@@ -2,7 +2,6 @@
 
 ## 1. Запуск бэкенда (Django)
 
-```bash
 # 1. Создаем и активируем виртуальное окружение
 
 python -m venv venv
@@ -24,7 +23,8 @@ python manage.py createsuperuser
 # 5. Запускаем локальный сервер
 python manage.py runserver
 
-Flutter
+
+## 2. Запуск Flutter
 
 # 1.
 flutter pub get
